@@ -8,16 +8,16 @@
     "riding",
     "service"
   ],
-  "homepage": "https://github.com/satyan3805/react10623#readme",
+  "homepage": "https://github.com/Hima022/react10623#readme",
   "bugs": {
-    "url": "https://github.com/satyan3805/react10623/issues"
+    "url": "https://github.com/Hima022/react10623/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/satyan3805/react10623.git"
+    "url": "git+https://github.com/Hima022/react10623.git"
   },
   "license": "ISC",
-  "author": "satya.n",
+  "author": "Hima022",
   "type": "commonjs",
   "scripts": {
     "test": "jest"
